@@ -1,0 +1,8 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+idna==3.7
+pillow==10.4.0
+PyQRCode @ https://pip.is.adyen.com/packages/PyQRCode/PyQRCode-1.2.1.tar.gz#sha256=fdbf7634733e56b72e27f9bce46e4550b75a3a2c420414035cae9d9d26b234d5
+requests==2.32.3
+urllib3==2.2.2
+PyQRCode~=1.2.1
